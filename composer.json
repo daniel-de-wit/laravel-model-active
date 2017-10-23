@@ -1,0 +1,24 @@
+{
+  "name": "daniel-de-wit/laravel-model-active",
+  "description": "Simple trait for scoping Eloquent models by 'active' boolean",
+  "keywords": [
+    "eloquent",
+    "laravel"
+  ],
+  "homepage": "https://github.com/daniel-de-wit/laravel-model-active",
+  "authors": [
+    {
+      "name": "Daniel de Wit",
+      "email": "daniel@danieldewit.nl"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Dwit\\LaravelModelActive\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
